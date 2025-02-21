@@ -10,7 +10,7 @@ public class Main {
 
         String url = "jdbc:mysql://localhost:3306/mydatabase";
         String username= "root";
-        String password = "@Anshulsingh66";
+        String password = "@EnterYourMysqlPassword";
 //        String query ="select * from employess";
 //        String query ="insert into employess(Id,name,job_title,salary) values (4,'Aditya','React Developer',8000.5)";
         String query = "delete from employess where Id=3";
